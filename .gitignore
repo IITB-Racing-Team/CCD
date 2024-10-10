@@ -1,3 +1,10 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore Visual Studio Code files
+.vscode/
+*.code-workspace
+
 # Ignore Python compiled files
 __pycache__/
 *.py[cod]
